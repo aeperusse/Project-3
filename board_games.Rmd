@@ -67,6 +67,8 @@ cleaned_board_games |>
         plot.title = element_text(colour = "midnightblue", size = 15))
 
 ```
+
+
 Based on the results of this plot, games with shorter play times receive higher consumer ratings. 
 
 ```{r}
